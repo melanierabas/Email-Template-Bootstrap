@@ -1,0 +1,9 @@
+body {
+    background-image: url('../images/CHICHI.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn-info{
+    background-color: green;
+}
